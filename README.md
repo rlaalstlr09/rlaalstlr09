@@ -1,15 +1,24 @@
+# ✨ 김민식 포트폴리오
+<span style="color: lightgray;">김민식 (Minsik Kim) 포트폴리오</span>
 
-## 프로젝트
+## 📖 소개
+안녕하세요 저는 ***"새로운 경험을 통해 성장하고자 하는"*** 김민식입니다.
 
-### 개인 프로젝트
+인하공업전문대학 컴퓨터 시스템과 3학년으로 졸업했습니다.
+
+웹 개발에 관심이 있고 JAVA, React, Spring 등 기술에 관심이 있습니다. 
+
+## 📂 프로젝트
+
+### 👤 개인 프로젝트
 [여행 플래너 작성 프로젝트 - PlanIt](https://github.com/rlaalstlr09/MAIN)
 
-### 팀 프로젝트
+### 🤝 팀 프로젝트
 [뮤지컬 예약 프로젝트 - 티켓보라](https://github.com/rlaalstlr09/Musical)
 
 [취업 정보 커뮤니티 - 굿잡](https://github.com/rlaalstlr09/GoodJob)
 
-## 기술
+## 🛠️ 기술
 <div>
   <img src="https://img.shields.io/badge/JSP-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
@@ -58,7 +67,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaalstlr09&layout=compact)](https://github.com/rlaalstlr09/github-readme-stats)
 
 
-## 정보
+## ℹ️ 정보
 Git
-
 [깃허브](https://github.com/rlaalstlr09)
+
+E-mail
+rlaalstlr0852@naver.com
+
