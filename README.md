@@ -50,15 +50,17 @@
   <br>
   <img src="https://img.shields.io/badge/MyBatis-ffffff?style=for-the-badge&logo=none" alt="MyBatis" style="background-color: #000000; color: balck;"> <br>
   <img src="https://img.shields.io/badge/Oracle_DB-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Tomcat%20tomcat-%23F8DC75.svg?&style=for-the-badge&logo=apache%20tomcat&logoColor=black" />
 </div>
 <br>
 <div>
-  <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook%20idea-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 <br>
 <div>
